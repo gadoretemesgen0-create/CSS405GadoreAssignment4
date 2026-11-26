@@ -1,0 +1,2 @@
+PASS: 800 inserts, 400 deletes, repeated word,
+missing key, and AVL balance after each change.

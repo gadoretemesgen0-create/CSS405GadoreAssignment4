@@ -1,0 +1,8 @@
+=== In-Order (Alphabetical) ===
+
+=== Level-Order (Queue) ===
+(empty tree)
+
+=== Pre-Order (Stack) ===
+(empty tree)
+AVL balanced: true

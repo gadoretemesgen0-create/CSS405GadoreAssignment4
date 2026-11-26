@@ -1,0 +1,9 @@
+=== In-Order (Alphabetical) ===
+river: 6
+
+=== Level-Order (Queue) ===
+river: 6
+
+=== Pre-Order (Stack) ===
+river: 6
+AVL balanced: true

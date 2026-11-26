@@ -1,0 +1,54 @@
+=== In-Order (Alphabetical) ===
+a: 1
+and: 1
+beside: 1
+birds: 2
+blue: 1
+bright: 2
+cross: 1
+give: 1
+grow: 1
+home: 1
+is: 1
+quiet: 1
+river: 3
+sky: 1
+the: 3
+trees: 2
+
+=== Level-Order (Queue) ===
+give: 1
+beside: 1
+river: 3
+a: 1
+bright: 2
+home: 1
+the: 3
+and: 1
+birds: 2
+cross: 1
+grow: 1
+quiet: 1
+sky: 1
+trees: 2
+blue: 1
+is: 1
+
+=== Pre-Order (Stack) ===
+give: 1
+beside: 1
+a: 1
+and: 1
+bright: 2
+birds: 2
+blue: 1
+cross: 1
+river: 3
+home: 1
+grow: 1
+quiet: 1
+is: 1
+the: 3
+sky: 1
+trees: 2
+AVL balanced: true

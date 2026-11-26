@@ -1,0 +1,15 @@
+=== In-Order (Alphabetical) ===
+blue: 3
+river: 3
+trees: 3
+
+=== Level-Order (Queue) ===
+river: 3
+blue: 3
+trees: 3
+
+=== Pre-Order (Stack) ===
+river: 3
+blue: 3
+trees: 3
+AVL balanced: true
